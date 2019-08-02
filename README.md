@@ -2,7 +2,7 @@
 Resources for beginners in Python <br />
 
 <p><strong>Hey peeps 
-Welcome to our python resources channel. 
+Welcome to our python resources page. 
 New to python?  We've got the perfect roadmap to get you started!</strong></p> 
 
 ### Pick up syntax : 
